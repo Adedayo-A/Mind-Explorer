@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "type": "Admin",
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "type": "Non-Admin",
+      "first_name": "Adedayo",
+      "last_name": "Sege",
+      "email": "steve@codingthesmartway.com",
+      "id": 2
+    },
+    {
+      "first_name": "Adedayo",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "id": 4
+    },
+    {
+      "first_name": "Adedayo boy",
+      "last_name": "Sege",
+      "email": "steve@codingthesmartway.com",
+      "id": 5
+    }
+  ]
+}
