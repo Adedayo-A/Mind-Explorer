@@ -1,0 +1,142 @@
+.nav {
+    margin-bottom: 0%;
+}
+.nav-two {
+    background-color: #fff;
+    color: black;
+}
+
+.nav-image {
+    position: absolute;
+    width: 1.8%;
+    fill: #ffffff;
+    left: 13%;
+    top: 32%;
+}
+
+.nav-ul {
+    margin-right: 16%;
+    margin-bottom: -0.05%;
+}
+
+.nav-two-ul {
+    margin-top: 1%;
+}
+
+.nav-two .navbar-brand {
+    color: black;
+    margin-top: -1rem;
+}
+
+.nav-ul li:nth-child(3), .nav-ul li:nth-child(4), .nav-ul li:nth-child(5) {
+    display: inline-block;
+    color:white;
+}
+
+.nav-ul li:nth-child(3) {
+    margin-right: 0.7rem;
+}
+
+.nav-ul li:nth-child(1), .nav-ul li:nth-child(2) {
+    display: none;
+}
+
+.nav-two-ul li {
+    display: inline-block;
+    color: black;
+    margin-right: 2.5rem;
+}
+
+.nav-two-ul li a{
+    text-decoration: none;
+    color: blue;
+}
+
+.search-svg {
+    position: absolute;
+    right: 35%;
+    top: 28%;
+    width: 1.8%;
+    fill: #ffffff;
+    cursor: pointer;
+}
+
+.search-svg-two {
+    position: absolute;
+    right: 55%;
+    top: 28%;
+    width: 1.8%;
+    fill: #ffffff;
+    cursor: pointer;
+    display: none;
+}
+  
+.search-input {
+    position: absolute;
+    width: 14rem;
+    right: 38%;
+    height: 2rem;
+    top: 20%;
+    display: none;
+}
+
+.search-input.show {
+    display: block;
+}
+.sign-in {
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+.sign-up {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 0.1rem;
+    padding: 5px;
+    font-size: 13px;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+
+/****** CARDS *******/
+.wrapper {
+    display: flex;
+}
+
+.card-top-left {
+    border: none;
+    width: 35%;
+    margin-left: 2%;
+    display: block;
+    margin-right: 3%;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.card-top-right {
+    width: 35%;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.card-top-mid {
+    border: none;
+    width: 20%;
+    margin-right: 3%;
+    padding: 2%;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+.mid-wrapper-next-div {
+    width: 12rem;
+    border: none;
+}
+.card-text {
+    font-size: 1.5rem;
+}
+
+.link-post {
+    text-decoration: none;
+    color: black;
+}

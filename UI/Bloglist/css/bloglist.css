@@ -1,0 +1,94 @@
+.nav {
+    margin-bottom: 0%;
+}
+.nav-two {
+    background-color: #fff;
+    color: black;
+}
+
+.nav-image {
+    position: absolute;
+    width: 1.8%;
+    fill: #ffffff;
+    left: 14%;
+    top: 32%;
+}
+
+.nav-ul {
+    margin-right: 20%;
+    margin-bottom: -0.05%;
+}
+
+.nav-two-ul {
+    margin-top: 1%;
+}
+
+.nav-two .navbar-brand {
+    color: black;
+    margin-top: -1rem;
+}
+
+.nav-ul li {
+    display: inline-block;
+    color:white;
+}
+
+.nav-two-ul li {
+    display: inline-block;
+    color: black;
+    margin-right: 2.5rem;
+}
+
+.nav-two-ul li a{
+    text-decoration: none;
+    color: blue;
+}
+
+.search-svg {
+    position: absolute;
+    right: 42%;
+    top: 28%;
+    width: 1.8%;
+    fill: #ffffff;
+    cursor: pointer;
+}
+  
+.search-input {
+    position: absolute;
+    width: 14rem;
+    right: 38%;
+    height: 2rem;
+    top: 20%;
+    display: none;
+}
+
+.search-svg-two {
+    position: absolute;
+    right: 55%;
+    top: 28%;
+    width: 1.8%;
+    fill: #ffffff;
+    cursor: pointer;
+    display: none;
+}
+
+.search-input.show {
+    display: block;
+}
+.sign-in {
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+.sign-up {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 0.1rem;
+    padding: 5px;
+    font-size: 13px;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+.nav-link {
+    color: white;
+}

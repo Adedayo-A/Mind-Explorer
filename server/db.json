@@ -1,30 +1,78 @@
 {
+  "posts": [
+    {
+      "title": "Tech",
+      "id": 3,
+      "author": "steve@codingthesmartway.com",
+      "Date": "May 30 2019",
+      "content": "Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory."
+    },
+    {
+      "title": "nodejs",
+      "content": "node",
+      "author": "red",
+      "id": 5
+    },
+    {
+      "title": "Balloon Post",
+      "content": "This Post is about balloons and the beautiful things they do and they say while in the belly of the beast This Post is about balloons and the beautiful things they do and they say while in the belly of the beastThis Post is about balloons and the beautiful things they do and they say while in the belly of the beast This Post is about balloons and the beautiful things they do and they say while in the belly of the beast This Post is about balloons and the beautiful things they do and they say while in the belly of the beast This Post is about balloons and the beautiful things they do and they say while in the belly of the beast",
+      "author": "red",
+      "id": 6
+    },
+    {
+      "title": "Hello",
+      "content": "Hello there, how are you? are you ok?",
+      "author": "red",
+      "id": 7
+    },
+    {
+      "title": "hello",
+      "content": "greetings",
+      "author": "red",
+      "id": 8
+    },
+    {
+      "title": "Hello",
+      "content": "Hi there",
+      "author": "yrtte",
+      "id": 9
+    }
+  ],
   "users": [
     {
       "id": 1,
-      "type": "Admin",
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "username": "ad@gmail.com",
+      "password": "1234"
     },
     {
-      "type": "Non-Admin",
-      "first_name": "Adedayo",
-      "last_name": "Sege",
-      "email": "steve@codingthesmartway.com",
-      "id": 2
+      "id": 2,
+      "username": "az@gmail.com",
+      "password": "2345"
     },
     {
-      "first_name": "Adedayo",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com",
-      "id": 4
+      "id": 3,
+      "username": "at@gmail.com",
+      "password": "3456"
     },
     {
-      "first_name": "Adedayo boy",
-      "last_name": "Sege",
-      "email": "steve@codingthesmartway.com",
+      "username": "red",
+      "password": "1234546",
       "id": 5
+    },
+    {
+      "username": "bbbhkkjk",
+      "password": "gggjhjhj",
+      "id": 6
+    },
+    {
+      "username": "dat",
+      "password": "5567",
+      "id": 7
+    },
+    {
+      "username": "yrtte",
+      "password": "2345",
+      "id": 8
     }
   ]
 }
