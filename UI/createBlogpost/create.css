@@ -1,0 +1,101 @@
+body {
+    font-family: 'Lora', 'Times New Roman', Times, serif
+}
+
+.nav {
+    margin-bottom: 0%;
+}
+
+.nav-image {
+    position: absolute;
+    width: 1.8%;
+    fill: #ffffff;
+    left: 14%;
+    top: 32%;
+}
+
+.nav-ul {
+    margin-right: 20%;
+    margin-bottom: -0.05%;
+    display: inline-block;
+}
+
+.nav-ul li {
+    display: inline-block;
+    color:white;
+    margin-right: 2rem;;
+    font-size: 1.5rem;
+}
+
+.nav-ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.search-svg {
+    position: absolute;
+    right: 35%;
+    top: 28%;
+    width: 1.8%;
+    fill: #ffffff;
+    cursor: pointer;
+}
+
+.search-svg-two {
+    position: absolute;
+    right: 55%;
+    top: 28%;
+    width: 1.8%;
+    fill: #ffffff;
+    cursor: pointer;
+    display: none;
+}
+  
+.search-input {
+    position: absolute;
+    width: 14rem;
+    right: 38%;
+    height: 2rem;
+    top: 20%;
+    display: none;
+}
+
+.search-input.show {
+    display: block;
+}
+.sign-in {
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+.sign-up {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 0.1rem;
+    padding: 5px;
+    font-size: 13px;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+
+/****** FORM ******/
+
+#row_style {
+    margin-top: 30px;
+}
+
+#submit {
+    display: block;
+    margin: auto;
+}
+
+.create-div {
+    margin-left: 0%;
+    display: flex;
+    flex-direction: column;
+}
+
+.create-div2 {
+    margin-left: -70%;
+    width: 50rem;
+}
